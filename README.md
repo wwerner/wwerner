@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=wwerner)
 
-<a href="https://stackexchange.com/users/65901"><img src="https://stackexchange.com/users/flair/65901.png" width="208" height="58" alt="Stack Overflow Badge" title="wwerner on stack overflow"></a>
+<a href="https://stackexchange.com/users/65901"><img src="https://stackexchange.com/users/flair/65901.png?theme=clean" width="208" height="58" alt="Stack Overflow Badge" title="wwerner on stack overflow"></a>
