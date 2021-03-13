@@ -2,6 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwerner&hide=shell&langs_count=10&layout=compact)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=wwerner)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@wwerner)
 
 <a href="https://stackexchange.com/users/65901"><img src="https://stackexchange.com/users/flair/65901.png?theme=clean" width="208" height="58" alt="Stack Overflow Badge" title="wwerner on stack overflow"></a>
