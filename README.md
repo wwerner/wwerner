@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/wwerner/stats/master/generated/languages.svg#gh-light-mode-only)
 
-
+![](./embed.svg)
 
 ![Last week in code](https://github-readme-stats.vercel.app/api/wakatime?username=@wwerner&layout=compact&custom_title=last%20week%20in%20code)
 
