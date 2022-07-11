@@ -1,6 +1,7 @@
-![](https://raw.githubusercontent.com/wwerner/stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/wwerner/stats/master/generated/languages.svg#gh-light-mode-only)
+<a href="https://wolfgang-werner.net">
+<img src="https://github.com/wwerner/stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/wwerner/stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
 ![Last week in code](https://github-readme-stats.vercel.app/api/wakatime?username=@wwerner&layout=compact&custom_title=last%20week%20in%20code)
 
