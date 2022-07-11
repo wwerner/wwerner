@@ -1,6 +1,6 @@
 ![Commits](https://github-readme-stats.vercel.app/api?username=wwerner&show_icons=true&count_private=true&include_all_commits=true&custom_title=github%20stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://wolfgang-werner.net)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=light)](https://wolfgang-werner.net)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwerner&hide=shell,lua,html&langs_count=10&layout=compact&custom_title=languages)
 
