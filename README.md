@@ -9,10 +9,4 @@
 
 <a href="https://stackexchange.com/users/65901"><img src="https://stackexchange.com/users/flair/65901.png?theme=clean" width="208" height="58" alt="Stack Overflow Badge" title="wwerner on stack overflow"></a>
 
-  <iframe type="text/html"
-          width="600"
-          height="600"
-          src="//vine.co/v/bjHh0zHdgZT/embed/simple"
-          frameborder="0"
-          webkitallowfullscreen mozallowfullscreen allowfullscreen>
-  </iframe>
+
