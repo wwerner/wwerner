@@ -1,5 +1,7 @@
 ![Commits](https://github-readme-stats.vercel.app/api?username=wwerner&show_icons=true&count_private=true&include_all_commits=true&custom_title=github%20stats)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wwerner)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwerner&hide=shell,lua,html&langs_count=10&layout=compact&custom_title=languages)
 
 ![Last week in code](https://github-readme-stats.vercel.app/api/wakatime?username=@wwerner&layout=compact&custom_title=last%20week%20in%20code)
