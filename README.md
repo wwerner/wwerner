@@ -1,5 +1,10 @@
 ![Commits](https://github-readme-stats.vercel.app/api?username=wwerner&show_icons=true&count_private=true&include_all_commits=true&custom_title=github%20stats)
 
+![](https://raw.githubusercontent.com/wwerner/stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/wwerner/stats/master/generated/languages.svg#gh-light-mode-only)
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wwerner&theme=light)](https://wolfgang-werner.net)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwerner&hide=shell,lua,html&langs_count=10&layout=compact&custom_title=languages)
