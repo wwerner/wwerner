@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:html="http://www.w3.org/1999/xhtml">
   <html:iframe 
       src="https://wolfgang-werner.net/"
-      sandbox="allow-scripts"
+      sandbox="allow-same-origin allow-scripts"
       title="wolfgang-werner.net"
       width="100%"
       height="500px"
