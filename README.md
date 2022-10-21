@@ -1,6 +1,6 @@
 <a href="https://wolfgang-werner.net">
 <img src="https://github.com/wwerner/stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-
+<br />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@wwerner&layout=compact&custom_title=last%20week%20in%20code" />
 
 <!--
