@@ -1,6 +1,6 @@
 [![Stats](https://stats.wwerner.vercel.app/api?username=wwerner&layout=compact&langs_count=10&show_icons=true&count_private=true&include_all_commits=true&custom_title=Some%20stats%20of%20arguable%20accuracy)](https://wolfgang-werner.net)
 
-[![Langs](https://stats.wwerner.vercel.app/api/top-langs?username=wwerner&layout=compact&langs_count=10&custom_title=Languages&hide=shell,tex,html)](https://wolfgang-werner.net)
+[![Langs](https://stats.wwerner.vercel.app/api/top-langs?username=wwerner&layout=compact&langs_count=10&custom_title=Languages&hide=javascript,html,php,shell,tex)](https://wolfgang-werner.net)
 
 [![Waka](https://stats.wwerner.vercel.app/api/wakatime?username=@wwerner&layout=compact&custom_title=last%20week%20in%20code)](https://wolfgang-werner.net)
 
