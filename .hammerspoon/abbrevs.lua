@@ -44,4 +44,3 @@ local applicationHotkeys = {
       hs.application.launchOrFocus(app)
     end)
   end
-  J
